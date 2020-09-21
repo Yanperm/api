@@ -1,2 +1,2 @@
-# api
+# restful api
 Application Programming Interface
